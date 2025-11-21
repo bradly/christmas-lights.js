@@ -2,6 +2,8 @@
 
 Add interactive Christmas lights to any web page
 
+![Screenshot](screenshot.png)
+
 ## Usage
 
 ```html
