@@ -1,6 +1,6 @@
 {
   "name": "christmas-lights",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interactive Christmas lights for your web page",
   "peerDependencies": {
     "tone": "^15.0.0"
