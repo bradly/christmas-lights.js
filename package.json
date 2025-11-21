@@ -1,0 +1,39 @@
+{
+  "name": "christmas-lights",
+  "version": "1.0.0",
+  "description": "Interactive Christmas lights for your web page",
+  "peerDependencies": {
+    "tone": "^15.0.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  },
+  "keywords": [
+    "christmas",
+    "web-component",
+    "tonejs"
+  ],
+  "homepage": "https://github.com/bradly/christmas-lights.js",
+  "bugs": {
+    "url": "https://github.com/bradly/christmas-lights.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradly/christmas-lights.js.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Bradly Feeley",
+  "type": "module",
+  "main": "christmas-lights.js",
+  "module": "christmas-lights.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "files": [
+    "christmas-lights.js",
+    "README.md"
+  ]
+}
