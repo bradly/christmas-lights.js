@@ -24,3 +24,11 @@ Then to start a local development server (using Vite):
     npm run dev
 
 Then visit `http://localhost:5173`
+
+## In the Wild
+
+- [BirdyMusic.com](https://birdymusic.com)
+- [BradlyFeeley.com](https://bradlyfeeley.com)
+- [ToDone List](https://strikings.com)
+
+Would you like your site added? Request it [here](https://github.com/bradly/christmas-lights.js/issues/new).
